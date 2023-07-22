@@ -17,3 +17,5 @@ https://github.com/0xm4v3rick/Burp-BChecks
 https://github.com/buggysolid/bchecks
 
 https://github.com/vrechson/copy-to-bcheck
+
+https://github.com/MrW0l05zyn/bchecks
