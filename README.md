@@ -23,3 +23,16 @@ https://github.com/MrW0l05zyn/bchecks
 https://github.com/Hannah-PortSwigger/SaveBchecksToFile
 
 https://github.com/jayluxferro/BChecks
+
+https://github.com/jimiss/bchecks
+
+https://github.com/QdghJ/burpsuite-bchecks
+
+https://github.com/yeswehack/BCheck-Burp-scripts
+
+https://github.com/CosasDePuma/Hacktomation
+
+https://github.com/vmnguyen/bcheck-collection
+
+https://github.com/0x0msg/Bcheck_Collection
+
