@@ -32,6 +32,10 @@ https://github.com/yeswehack/BCheck-Burp-scripts
 
 https://github.com/CosasDePuma/Hacktomation
 
+https://github.com/KaustubhRai/bchecks
+
+
+
 https://github.com/vmnguyen/bcheck-collection
 
 https://github.com/0x0msg/Bcheck_Collection
