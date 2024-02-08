@@ -40,3 +40,5 @@ https://github.com/vmnguyen/bcheck-collection
 
 https://github.com/0x0msg/Bcheck_Collection
 
+https://github.com/j3ssie/custom-bcheck-scan
+
