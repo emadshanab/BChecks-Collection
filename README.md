@@ -42,3 +42,4 @@ https://github.com/0x0msg/Bcheck_Collection
 
 https://github.com/j3ssie/custom-bcheck-scan
 
+https://github.com/AliAhdy/Burp-Suite-BChecks---OWASP-ASVS-V4.0.3
