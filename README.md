@@ -43,3 +43,13 @@ https://github.com/0x0msg/Bcheck_Collection
 https://github.com/j3ssie/custom-bcheck-scan
 
 https://github.com/AliAhdy/Burp-Suite-BChecks---OWASP-ASVS-V4.0.3
+
+https://github.com/BuffaloWill/BChecksPublic
+
+https://github.com/HektikSec/BChecks
+
+https://github.com/kjeevesh/bchecks.git
+
+https://github.com/10up/wp-bcheck
+
+https://github.com/kalhoralireza/morvarid-bcheck.git
